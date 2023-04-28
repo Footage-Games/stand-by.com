@@ -3,6 +3,10 @@
   text-align: center;
 }
 
-header .lol {
+header, .lol {
   background: rgb(25, 25, 25);
+}
+
+.lol {
+  color: white;
 }
